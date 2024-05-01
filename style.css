@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(240, 240, 255);
+}
+
+.main {
+  height: 500px;
+  width: 500px;
+  background-color: rgb(175, 164, 149);
+  margin-top: 44px;
+  margin-left: 430px;
+  border: 7px solid black;
+  font-size: 45px;
+  text-align: center;
+  align-items: center;
+}
+
+.first {
+  display: flex;
+}
+.sec {
+  display: flex;
+}
+
+.black {
+  width: 62.5px;
+  height: 62.5px;
+  background-color: #000;
+  color: #fff;
+}
+
+.white {
+  width: 62.5px;
+  height: 62.5px;
+  background-color: #fff;
+}
